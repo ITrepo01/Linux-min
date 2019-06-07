@@ -1,0 +1,1 @@
+## Bootstrap script for a New Centos / Redhat
